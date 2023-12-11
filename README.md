@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anes</h1>
-## 🎓 Computer Science and Engineering Graduate | 
+🎓 Computer Science and Engineering Graduate | 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
