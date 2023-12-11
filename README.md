@@ -1,3 +1,4 @@
+![SEngineer](https://github.com/Faz1a/Faz1a/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Anes</h1>
 <h3  align="center">🎓 Computer Science and Engineering Graduate </h3>
 
